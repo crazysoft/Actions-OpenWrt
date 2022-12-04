@@ -15,3 +15,5 @@
 
 # Add a feed source
 echo 'src-git OpenClash https://github.com/vernesong/OpenClash' >>feeds.conf.default
+# add config
+set FORCE_UNSAFE_CONFIGURE=1
